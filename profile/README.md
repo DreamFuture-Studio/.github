@@ -1,4 +1,7 @@
-### DreamFuture-Studio 夢見未來工作室
+### DreamFuture-Studio 夢見未來工作室  
+
+![](https://cdn.discordapp.com/attachments/962357633703116840/962358282213789736/linkedin_banner_image_2.png)
+  
 Welcome To DreamFuture-Studio`s GitHub Page !  
 歡迎來到夢見未來工作室的GitHub頁面！  
   

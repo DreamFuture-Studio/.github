@@ -8,3 +8,12 @@ We are a team from Taiwan.
 ![](https://cdn.discordapp.com/attachments/962357633703116840/962358282570326116/twitter_header_photo_2.png)
 If you have any problem or wanna contect us, you can send a mail to `DreamFuture.official@gmail.com`.  
 如果您有任何問題或想聯繫我們，歡迎透過 `DreamFuture.official@gmail.com` 向我們發送郵件。  
+
+<div align="left">
+ <a href="https://paypal.me/15LIVETW" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                /></a>
+  <img src="https://komarev.com/ghpvc/?username=DreamFuture-S&&style=flat-square" align="center" />
+</div>

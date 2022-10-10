@@ -5,6 +5,6 @@ Welcome To DreamFuture-Studio`s GitHub Page !
   
 We are a team from Taiwan.  
 我們是一個來自臺灣的團隊  
-![](https://cdn.discordapp.com/attachments/962357633703116840/962358282213789736/linkedin_banner_image_2.png)
+![](https://cdn.discordapp.com/attachments/962357633703116840/962358205898436618/logo.png)
 If you have any problem or wanna contect us, you can send a mail to `DreamFuture.official@gmail.com`.  
 如果您有任何問題或想聯繫我們，歡迎藉由 `DreamFuture.official@gmail.com` 向我們發送郵件。  

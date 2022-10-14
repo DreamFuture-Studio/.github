@@ -6,8 +6,8 @@ Welcome To DreamFuture-Studio`s GitHub Page !
 We are a developer team from Taiwan.  
 我們是一個來自臺灣的開發團隊  
 ![](https://cdn.discordapp.com/attachments/962357633703116840/962358282570326116/twitter_header_photo_2.png)
-If you have any problem or wanna contect us, you can send a mail to `DreamFuture.official@gmail.com`.  
-如果您有任何問題或想聯繫我們，歡迎透過 `DreamFuture.official@gmail.com` 向我們發送郵件。  
+If you have any problem or wanna contect us, you can send a mail to `dreamfuture.official@gmail.com`.  
+如果您有任何問題或想聯繫我們，歡迎透過 `dreamfuture.official@gmail.com` 向我們發送郵件。  
 
 <div align="left">
  <a href="https://paypal.me/15LIVETW" target="_blank" style="display: inline-block;">

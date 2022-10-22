@@ -1,16 +1,21 @@
 CodeRyo 碼凌數位科技
-===
-Welcome To CodeRyo`s GitHub Page !  
-歡迎來到碼凌數位科技的GitHub頁面！  
+===  
+<div  align="left">
+   <img src="https://cdn.discordapp.com/attachments/962358376015212617/1033035212524888134/CodeRyo.png" width = "300" height = "300" alt="图片名称" align=right />
   
-We are a developer team from Taiwan.  
-我們是一個來自臺灣的開發團隊  
-![](https://cdn.discordapp.com/attachments/962358376015212617/1033035213426659448/logo_transparent.png)
-If you have any problem or wanna contect us, you can send a mail to `dreamfuture.official@gmail.com`.  
-如果您有任何問題或想聯繫我們，歡迎透過 `dreamfuture.official@gmail.com` 向我們發送郵件。  
+  Welcome To CodeRyo`s GitHub Page !  
+  歡迎來到碼凌數位科技的GitHub頁面！  
+  
+  We are a developer team from Taiwan.  
+  我們是一個來自臺灣的開發團隊  
+  
+  If you have any problem or wanna contect us, you can send a mail to `dreamfuture.official@gmail.com`.  
+  如果您有任何問題或想聯繫我們，歡迎透過 `dreamfuture.official@gmail.com` 向我們發送郵件。  
 
-__愛與夢想的發源地 ♡__  
-https://discord.gg/aTMb2EBsBt   
+  __愛與夢想的發源地 ♡__  
+  https://discord.gg/aTMb2EBsBt   
+  
+</div>
   
 <div align="left">
  <a href="https://paypal.me/15LIVETW" target="_blank" style="display: inline-block;">

@@ -25,3 +25,10 @@ CodeRyo 碼凌數位科技
                 /></a>
   <img src="https://komarev.com/ghpvc/?username=DreamFuture-S&&style=flat-square" align="center" />
 </div>
+
+## Announcement 公告  
+```diff
++ 本團隊預計於2022年11月14日起正式更名為 CodeRyo。
+```
+
+歡迎共同貢獻開源專案，為開源社群盡一份心力！

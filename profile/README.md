@@ -9,8 +9,8 @@ CodeRyo 碼凌數位科技
   We are a developer team from Taiwan.  
   我們是一個來自臺灣的開發團隊  
   
-  If you have any problem or wanna contect us, you can send a mail to `dreamfuture.official@gmail.com`.  
-  如果您有任何問題或想聯繫我們，歡迎透過 `dreamfuture.official@gmail.com` 向我們發送郵件。  
+  If you have any problem or wanna contect us, you can send a mail to `hello@coderyo.com`.  
+  如果您有任何問題或想聯繫我們，歡迎透過 `hello@coderyo.com` 向我們發送郵件。  
 
   __愛與夢想的發源地 ♡__  
   https://discord.gg/aTMb2EBsBt   

@@ -13,7 +13,7 @@ CodeRyo 碼凌數位科技
   如果您有任何問題或想聯繫我們，歡迎透過 `hello@coderyo.com` 向我們發送郵件。  
 
   __愛與夢想的發源地 ♡__  
-  coderyo.com/discord   
+  http://coderyo.com/discord   
   
 </div>
   

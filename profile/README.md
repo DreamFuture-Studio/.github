@@ -1,7 +1,7 @@
 CodeRyo 碼凌數位科技
 ===  
 <div  align="left">
-   <img src="https://cdn.discordapp.com/attachments/962358376015212617/1033035212524888134/CodeRyo.png" width = "300" height = "300" alt="图片名称" align=right />
+   <img src="https://github.com/CodeRyoDeveloper/.github/assets/36478298/6a44452e-5fc1-42c7-bd58-a594f6e74ac9" width = "300" height = "300" alt="图片名称" align=right />
   
   Welcome To CodeRyo`s GitHub Page !  
   歡迎來到碼凌數位科技的GitHub頁面！  

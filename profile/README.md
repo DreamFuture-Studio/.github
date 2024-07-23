@@ -1,10 +1,10 @@
-CodeRyo 碼凌數位科技
+CodeRyo Studio 碼凌工作室
 ===  
 <div  align="left">
    <img src="https://github.com/CodeRyoDeveloper/.github/assets/36478298/6a44452e-5fc1-42c7-bd58-a594f6e74ac9" width = "300" height = "300" alt="图片名称" align=right />
   
   Welcome To CodeRyo`s GitHub Page !  
-  歡迎來到碼凌數位科技的GitHub頁面！  
+  歡迎來到碼凌的GitHub頁面！  
   
   We are a developer team from Taiwan.  
   我們是一個來自臺灣的開發團隊  
@@ -25,11 +25,5 @@ CodeRyo 碼凌數位科技
                 /></a>
   <img src="https://komarev.com/ghpvc/?username=DreamFuture-S&&style=flat-square" align="center" />
 </div>
-
-## Announcement 公告  
-```diff
-+ 本團隊預計於2022年11月14日起正式更名為 CodeRyo（碼凌數位科技）。
-+ 2023年02月22日已將 CodeRyoIT 更名為 teamCodeRyo。
-```
 
 歡迎共同貢獻開源專案，為開源社群盡一份心力！
